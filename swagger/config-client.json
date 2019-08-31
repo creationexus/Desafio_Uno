@@ -1,0 +1,16 @@
+{
+  "groupId"         : "com.previred.client.periodos",
+  "artifactId"      : "client-periodos",
+  "artifactVersion" : "1.0.0",
+  "artifactDescription" : "Micro Servicio de prueva de periodos",
+  
+  "basePackage"     : "com.previred.client.periodos",
+  "invokerPackage"  : "com.previred.client.periodos.swagger",
+  "apiPackage"      : "com.previred.client.periodos.swagger.codegen.api",
+  "modelPackage"    : "com.previred.client.periodos.swagger.codegen.model",
+  "configPackage"   : "com.previred.client.periodos.swagger.codegen.config",
+  "java8"           : true,
+  "title"           : "Client Periodos",
+  "hideGenerationTimestamp" : true,
+  "library"         : "resttemplate"
+}
